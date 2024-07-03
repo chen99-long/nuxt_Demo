@@ -1,0 +1,8 @@
+name = "hidden-boat-1985"
+main = "./.output/server/index.mjs"
+workers_dev = true
+compatibility_date = "2024-07-03"
+account_id = "fcd166b0aef45a3566d4c0eb51b25662"
+
+[site]
+bucket = ".output/public"
